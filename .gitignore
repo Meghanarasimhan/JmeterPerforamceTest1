@@ -1,0 +1,4 @@
+# JMeter result files
+*.jtl
+*.log
+jmeter.properties
